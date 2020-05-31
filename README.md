@@ -1,2 +1,3 @@
 # Aulas e Projetos
- Aulas e projetos de estudo e exercio versionado
+ Aulas e projetos de estudo e exercicio versionado.
+ 
